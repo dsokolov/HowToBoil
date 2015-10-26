@@ -19,4 +19,8 @@ public class Dish {
         this.title = title;
     }
 
+    public String getTitle() {
+        return title;
+    }
+
 }
